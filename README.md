@@ -1,4 +1,4 @@
-<h1 style="color: coral">Three js Basic</h1>
+# **Three js Basic**
 
 ![img.png](img.png)
 ↳ Rendering Result<br>
