@@ -4,6 +4,6 @@
 ↳ Rendering Result<br>
 ---
 <p align="right">
-    <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+    <a href="https://www.google.com/">Beta link</a>
 </p>
 
