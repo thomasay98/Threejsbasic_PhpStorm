@@ -1,11 +1,11 @@
-<h1 align="center">Three js Basic</h1>
+<h1 align="center">
+    <font color="#ff8c00"> Three.js Basic </font> 
+</h1>
 
 ![img.png](img.png)
 ↳ Rendering Result<br>
 
-[title](https://www.example.com)
-
-<p align="center">
-// Your content
+<p align="right">
+    
 </p>
 
