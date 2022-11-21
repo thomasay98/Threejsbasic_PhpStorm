@@ -1,12 +1,11 @@
-<h1 style="color: coral">Three js Basic</h1><br>
----
+<h1 style="color: coral">Three js Basic</h1>
 
 ![img.png](img.png)
 ↳ Rendering Result<br>
-<p style="text-align:right">   </p>
 
-<a href="https://www.google.com/" target="_blank">Google</a>
-
+<p style="text-align:right">
+    <a href="https://www.google.com/" target="_blank">Google</a>
+</p>
 
 
 
